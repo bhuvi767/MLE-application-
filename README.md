@@ -15,11 +15,11 @@ This project is a **Machine Learning-based House Price Prediction System** that 
 ---
 
 ## 🛠️ Tech Stack
-- **Python** 🐍
-- **Flask / FastAPI** 🌐
-- **Scikit-Learn** 🤖
-- **Pandas & NumPy** 📊
-- **Docker** 🐳
+- **Python** 
+- **Flask / FastAPI** 
+- **Scikit-Learn** 
+- **Pandas & NumPy** 
+- **Docker** 
 
 ---
 
