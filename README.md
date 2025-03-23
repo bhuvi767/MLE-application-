@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python app.py
 
 Visit http://127.0.0.1:5000/predict to test.
-🐳 Running with Docker
+ Running with Docker
 🔹 1. Build the Docker Image
 
 docker build -t house-price-api .
